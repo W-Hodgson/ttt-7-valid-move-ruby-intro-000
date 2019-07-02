@@ -21,5 +21,3 @@ def position_taken?(board, index)
     true
   end
 end
-
-valid_move?([" ", " ", " ", " ", " ", " ", " ", " ", " "], 4)
